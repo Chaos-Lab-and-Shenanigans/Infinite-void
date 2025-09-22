@@ -7,9 +7,10 @@ The prophecy is 99% accurate, why? Some wise words for you...
 "_You can predict the future, if you're the one making it happen..._"
 
 ## How to escape
-- Easiest way is just to reboot your system.  
-**OR**
 - Open Task manager, search for FortuneTeller, right-click and then end task.
+**OR**
+- If you can't do that, reboot your system.
+
 
 ## Requirements
 - Windows pc
